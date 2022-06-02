@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "6298751d71acc753bce7ba4c"
+  },
+  "firstName": "israel",
+  "lastName": "choen",
+  "email": "buki8060@gmail.com",
+  "age": 35,
+  "vatrinarId": {
+    "$oid": "62986d74d4a5b6ba741f1690"
+  },
+  "petsArr": [
+    {
+      "$oid": "62986becbeb66321cf5aed6d"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6298751d71acc753bce7ba4d"
+  },
+  "firstName": "chaim",
+  "lastName": "segal",
+  "email": "shimi123@gmail.com",
+  "age": 67,
+  "vatrinarId": {
+    "$oid": "62986d74d4a5b6ba741f1691"
+  },
+  "petsArr": [
+    {
+      "$oid": "62986becbeb66321cf5aed6d"
+    },
+    {
+      "$oid": "62986becbeb66321cf5aed6e"
+    }
+  ],
+  "__v": 0
+}]
